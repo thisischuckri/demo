@@ -2,3 +2,6 @@
 
 ## Adding new line
 This is a simple read me file
+
+## Just adding some updates
+### Adding some more updates for testing merging
